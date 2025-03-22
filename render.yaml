@@ -5,4 +5,4 @@ services:
     runtime: image
     name: n8n-service
     image:
-      url: docker.io/n8nio/n8n:latest
+      url: ruben18salazar/n8n:latest
